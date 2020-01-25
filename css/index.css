@@ -79,7 +79,8 @@ p {
 	left:0;
 	bottom:0;
 	height: 45px;
-	margin: 0 auto;
+    margin: 0 auto;
+    background-color: aqua;
 }
 
 .navlogo {
@@ -111,7 +112,8 @@ p {
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
-    padding-bottom: 20px;  
+    padding-bottom: 20px;
+    margin-top: 70px;  
 }
 
 .middle-content {
