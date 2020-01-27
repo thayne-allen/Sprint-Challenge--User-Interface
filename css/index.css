@@ -118,6 +118,14 @@ p {
 	padding-bottom: inherit;
 }
 
+.about-button {
+	border-radius: 10px;
+	height: 35px;
+	width: 125px;
+	margin-top: 20px;
+    font-size: medium;
+}
+
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
