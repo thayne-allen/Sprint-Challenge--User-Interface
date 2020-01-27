@@ -80,7 +80,7 @@ p {
 	bottom:0;
 	height: 45px;
     margin: 0 auto;
-    background-color: aqua;
+    background-color: white;
 }
 
 .navlogo {
@@ -109,6 +109,15 @@ p {
     border-bottom: 1px dashed black;
 }
 
+.top-about-img {
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.mid-about-img {
+	padding-bottom: inherit;
+}
+
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
@@ -125,16 +134,14 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin-top: 70px;
     margin-bottom: 20px;
-    border-bottom: 1px dashed black;
 }
 
 .middle-about-content .text-container {
     width: 48%;
     padding: 0 1%;
     padding-bottom: 20px;
-    margin-top: 70px;  
+    margin-top: 30px;  
 }
 
 .middle-content {
